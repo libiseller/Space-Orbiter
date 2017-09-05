@@ -1,6 +1,8 @@
 Space Orbiter
 ---------
 
+![Space Orbiter Gameplay](https://github.com/libiseller/Space-Orbiter/blob/master/Space-Orbiter.gif)
+
 ## Hello Spacepilot, here is your mission:
 
 Mine 10 out of 20 comets orbiting the local star. You automatically attract them with the beam.
